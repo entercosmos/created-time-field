@@ -1,5 +1,7 @@
 # ![CreatedTimeField](https://user-images.githubusercontent.com/44801418/48110635-ce9e3980-e27f-11e8-82c4-4e643370a85f.png) CreatedTimeField
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/entercosmos/created-time-field.svg)](https://greenkeeper.io/)
+
 [![npm package][npm-badge]][npm]
 
 Used for diplaying the time the record was created.
